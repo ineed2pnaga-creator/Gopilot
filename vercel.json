@@ -1,0 +1,1 @@
+{\n  "cron": [\n    {\n      "path": "/api/pricePoller",\n      "schedule": "0 * * * *"\n    }\n  ]\n}
